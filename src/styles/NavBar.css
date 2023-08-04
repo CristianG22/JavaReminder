@@ -1,0 +1,12 @@
+.flex-menu {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid #E23E42 ;
+}
+
+.flex-menu li {
+    list-style-type: none;
+    padding: 1rem;
+    color: #E23E42;
+}
